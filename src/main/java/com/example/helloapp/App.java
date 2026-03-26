@@ -9,7 +9,7 @@ public class App
     {
     	        if (args.length == 0) 
     	        {
-    	            System.out.println("Hello, World!");
+    	            System.out.println("Hello, World");
     	        } else 
     	        {
     	            StringBuilder names = new StringBuilder();
